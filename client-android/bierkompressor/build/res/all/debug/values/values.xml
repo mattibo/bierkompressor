@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <string-array name="menu_array">
+        <item>Zufall</item>
+        <item>Rekord</item>
+        <item>Rangliste</item>
+        <item>Das Team</item>
+        <item>Info</item>
+        <item>Einstellungen</item>
+    </string-array>
+
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
 
-    <string name="action_settings">Settings</string>
     <string name="app_name">Bier Kompressor</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="app_name_one">Bierkompressor</string>
+    <string name="drawer_close">Schließe Menü</string>
+    <string name="drawer_open">Öffne Menü</string>
+    <string name="hello_world">Hallo Welt!</string>
+    <string name="player_1">Spieler 1</string>
+    <string name="player_2">Spieler 2</string>
+    <string name="player_3">Spieler 3</string>
+    <string name="player_4">Spieler 4</string>
 
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--
