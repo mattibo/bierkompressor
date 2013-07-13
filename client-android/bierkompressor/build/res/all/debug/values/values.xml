@@ -5,9 +5,10 @@
         <item>Zufall</item>
         <item>Rekord</item>
         <item>Rangliste</item>
+        <item>Status</item>
+        <item>Einstellungen</item>
         <item>Das Team</item>
         <item>Info</item>
-        <item>Einstellungen</item>
     </string-array>
 
     <dimen name="activity_horizontal_margin">16dp</dimen>
@@ -18,6 +19,7 @@
     <string name="drawer_close">Schließe Menü</string>
     <string name="drawer_open">Öffne Menü</string>
     <string name="hello_world">Hallo Welt!</string>
+    <string name="menu_not_available">%1$s zurzeit nicht verfügbar.</string>
     <string name="player_1">Spieler 1</string>
     <string name="player_2">Spieler 2</string>
     <string name="player_3">Spieler 3</string>

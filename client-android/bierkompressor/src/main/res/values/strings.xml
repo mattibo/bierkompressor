@@ -10,13 +10,15 @@
     <string name="player_4">Spieler 4</string>
     <string name="drawer_open">Öffne Menü</string>
     <string name="drawer_close">Schließe Menü</string>
+    <string name="menu_not_available">%1$s zurzeit nicht verfügbar.</string>
     <string-array name="menu_array">
         <item>Zufall</item>
         <item>Rekord</item>
         <item>Rangliste</item>
+        <item>Status</item>
+        <item>Einstellungen</item>
         <item>Das Team</item>
         <item>Info</item>
-        <item>Einstellungen</item>
     </string-array>
 
 </resources>

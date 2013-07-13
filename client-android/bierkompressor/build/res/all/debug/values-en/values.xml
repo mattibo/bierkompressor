@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <string-array name="menu_array">
+        <item>Random</item>
+        <item>Ranking</item>
+        <item>Ranking</item>
+        <item>Status</item>
+        <item>Settings</item>
+        <item>Team</item>
+        <item>Info</item>
+    </string-array>
+
     <string name="app_name">Bierkompressor</string>
     <string name="app_name_one">Bierkompressor</string>
     <string name="drawer_close">Close Menu</string>
     <string name="drawer_open">Open Menu</string>
     <string name="hello_world">Hello World!</string>
+    <string name="menu_not_available">%1$s currently not available.</string>
     <string name="player_1">Player 1</string>
     <string name="player_2">Player 2</string>
     <string name="player_3">Player 3</string>

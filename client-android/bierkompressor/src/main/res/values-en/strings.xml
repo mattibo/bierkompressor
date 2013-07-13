@@ -9,5 +9,15 @@
     <string name="player_2">Player 2</string>
     <string name="player_3">Player 3</string>
     <string name="player_4">Player 4</string>
+    <string name="menu_not_available">%1$s currently not available.</string>
+    <string-array name="menu_array">
+        <item>Random</item>
+        <item>Ranking</item>
+        <item>Ranking</item>
+        <item>Status</item>
+        <item>Settings</item>
+        <item>Team</item>
+        <item>Info</item>
+    </string-array>
 
 </resources>
