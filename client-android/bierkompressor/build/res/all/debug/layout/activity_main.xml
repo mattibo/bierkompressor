@@ -17,4 +17,4 @@
               android:divider="@android:color/transparent"
               android:dividerHeight="0dp"
               android:background="#111"/>
-</android.support.v4.widget.DrawerLayout>
+</android.support.v4.widget.DrawerLayout><!-- From: C:\bierkompressor\client-android\bierkompressor\src\main\res\layout\activity_main.xml -->

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <!-- From: C:\bierkompressor\client-android\bierkompressor\src\main\res\values-en\strings.xml -->
     <string-array name="menu_array">
         <item>Random</item>
         <item>Ranking</item>

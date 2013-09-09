@@ -35,13 +35,6 @@
                 android:id="@+id/button_random_player4"
                 android:layout_gravity="left|center_vertical"/>
 
-        <SeekBar
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:id="@+id/seekBar"
-                android:layout_gravity="center"
-                android:layout_margin="10dp"/>
-
     </LinearLayout>
 
     <Button
@@ -52,4 +45,4 @@
             android:layout_gravity="center|bottom"
             android:layout_alignParentBottom="true"
             android:layout_centerHorizontal="true"/>
-</RelativeLayout>
+</RelativeLayout><!-- From: C:\bierkompressor\client-android\bierkompressor\src\main\res\layout\fragment_random.xml -->

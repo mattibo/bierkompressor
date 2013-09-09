@@ -13,4 +13,4 @@
             android:text="@string/hello_world"
             android:id="@+id/testText"
             android:layout_gravity="center_horizontal|top"/>
-</LinearLayout>
+</LinearLayout><!-- From: C:\bierkompressor\client-android\bierkompressor\src\main\res\layout\fragment_status.xml -->
